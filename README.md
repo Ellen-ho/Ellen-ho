@@ -37,7 +37,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </p>
 <br>
-<br>
 
 ## 🏆 GitHub Trophies:
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ellen-ho)](https://github.com/ryo-ma/github-profile-trophy)
