@@ -1,13 +1,13 @@
-# Hi 👋, I'm Ellen
-### A passionate software engineer
+# Hi 👋, I'm Ellen ![](https://komarev.com/ghpvc/?username=Ellen-ho)
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ellen-ho)](https://github.com/ryo-ma/github-profile-trophy)
+👩‍💻 A passionate software engineer
+<br>
+<br>
+## Connect with me:
+- 📫 **ellen31725@gmail.com**
+<br>
 
-- 📫 How to reach me **ellen31725@gmail.com**
-
-### Connect with me:
-
-### Languages and Tools:
+## 💻 Languages and Tools:
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -36,7 +36,14 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </p>
+<br>
+<br>
 
+## 🏆 GitHub Trophies:
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ellen-ho)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+<br>
+## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ellen-ho&show_icons=true&locale=en&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ellen-ho)
