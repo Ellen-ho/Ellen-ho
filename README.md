@@ -6,19 +6,19 @@
 ## 🌟 Featured Projects  
 Here are some of my key projects:
 
-### 🏠 [Ellen's Website](https://ellen-website-rabfc76eg-ellenhos-projects.vercel.app)  
+### 🏠 <a href="https://ellen-website-rabfc76eg-ellenhos-projects.vercel.app" target="_blank">Ellen's Website</a>  
 *A showcase of my projects, blog, and portfolio.*  
 
-### 📊 [Clinic Pulse](https://myclinics.life/)  
+### 📊 <a href="https://myclinics.life/" target="_blank">Clinic Pulse</a>  
 *A healthcare platform designed to streamline clinic operations.*
 
-### 🤝 [Medi Connect](https://medi-connect-ui.vercel.app/)  
+### 🤝 <a href="https://medi-connect-ui.vercel.app/" target="_blank">Medi Connect</a>  
 *A digital tool to enhance doctor-patient collaboration.*   
 
-### 🧮 [Acupuncture Helper](https://acupuncture-helper-service.onrender.com/)  
+### 🧮 <a href="https://acupuncture-helper-service.onrender.com/" target="_blank">Acupuncture Helper</a>  
 *A digital tool for acupuncture practitioners to manage cases.*
 
-### 🌐 [Taipei Day Trip](https://travelco.agency/)  
+### 🌐 <a href="https://travelco.agency/" target="_blank">Taipei Day Trip</a>  
 *A multilingual website showcasing tourist attractions in Taipei.*  
 <br>
 
