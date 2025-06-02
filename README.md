@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ellen ![](https://komarev.com/ghpvc/?username=Ellen-ho)
 
-## 👩‍💻 A passionate software engineer  
+👩‍💻 A passionate software engineer  
 <br>
 
 ## 🌟 Featured Projects  
