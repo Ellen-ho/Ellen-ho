@@ -6,7 +6,7 @@
 ## 🌟 Featured Projects  
 Here are some of my key projects:
 
-### 🏠 <a href="https://ellen-website-rabfc76eg-ellenhos-projects.vercel.app" target="_blank">Ellen's Website</a>  
+### 🏠 <a href="https://ellen-website-xi.vercel.app/" target="_blank">Ellen's Website</a>  
 *A showcase of my projects, blog, and portfolio.*  
 
 ### 📊 <a href="https://myclinics.life/" target="_blank">Clinic Pulse</a>  
