@@ -15,7 +15,7 @@ Here are some of my key projects:
 ### 🤝 <a href="https://medi-connect-ui.vercel.app/" target="_blank">Medi Connect</a>  
 *A digital tool to enhance doctor-patient collaboration.*   
 
-### 🧮 <a href="https://acupuncture-helper-service.onrender.com/" target="_blank">Acupuncture Helper</a>  
+### 🏥 <a href="https://acupuncture-helper-service.onrender.com/" target="_blank">Acupuncture Helper</a>  
 *A digital tool for acupuncture practitioners to manage cases.*
 
 ### 🌐 <a href="https://travelco.agency/" target="_blank">Taipei Day Trip</a>  
