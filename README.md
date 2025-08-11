@@ -1,27 +1,5 @@
 # Hi 👋, I'm Ellen ![](https://komarev.com/ghpvc/?username=Ellen-ho)
 
-👩‍💻 A passionate software engineer  
-<br>
-
-## 🌟 Featured Projects  
-Here are some of my key projects:
-
-### 🏠 <a href="https://ellen-website-xi.vercel.app/" target="_blank">Ellen's Website</a>  
-*A showcase of my projects, blog, and portfolio.*  
-
-### 📊 <a href="https://myclinics.life/" target="_blank">Clinic Pulse</a>  
-*A healthcare platform designed to streamline clinic operations.*
-
-### 🤝 <a href="https://medi-connect-ui.vercel.app/" target="_blank">Medi Connect</a>  
-*A digital tool to enhance doctor-patient collaboration.*   
-
-### 🏥 <a href="https://acupuncture-helper-service.onrender.com/" target="_blank">Acupuncture Helper</a>  
-*A digital tool for acupuncture practitioners to manage cases.*
-
-### 🌐 <a href="https://travelco.agency/" target="_blank">Taipei Day Trip</a>  
-*A multilingual website showcasing tourist attractions in Taipei.*  
-<br>
-
 ## 📫 Connect with me  
 - **ellen31725@gmail.com**
 <br>
