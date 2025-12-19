@@ -43,6 +43,5 @@
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ellen-ho&show_icons=true&locale=en&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellen-ho&layout=compact)
 
 
