@@ -36,7 +36,7 @@
 <br>
 
 ## 🏆 GitHub Trophies:
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ellen-ho&theme=flat&row=1)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ellen-ho&theme=flat&no-frame=true&margin-w=10)
 <br>
 <br>
 ## 📊 GitHub Stats:
