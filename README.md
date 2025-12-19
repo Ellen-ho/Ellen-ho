@@ -36,9 +36,10 @@
 <br>
 
 ## 🏆 GitHub Trophies:
-<img src="https://github-profile-trophy.vercel.app/?username=ellen-ho&theme=flat&no-frame=true" />
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ellen-ho&theme=flat&no-frame=true)
 <br>
 <br>
+
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ellen-ho&show_icons=true&locale=en&layout=compact)
 
