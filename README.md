@@ -36,7 +36,7 @@
 <br>
 
 ## 🏆 GitHub Trophies:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ellen-ho&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ellen-ho)
 <br>
 <br>
 
