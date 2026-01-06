@@ -1,5 +1,4 @@
 # Hi 👋, I'm Ellen ![](https://komarev.com/ghpvc/?username=Ellen-ho)
-
 ## 💻 Languages and Tools:
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 50px; justify-content: center; padding: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80" style="margin: 20px;"/>   
